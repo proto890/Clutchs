@@ -45,6 +45,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Code\BoundaryDestroy.cs" />
+     <Compile Include="Assets\Code\ContactDestroy.cs" />
+     <Compile Include="Assets\Code\DestroyByTime.cs" />
+     <Compile Include="Assets\Code\GameController.cs" />
+     <Compile Include="Assets\Code\HazardMover.cs" />
      <Compile Include="Assets\Code\Movement.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
