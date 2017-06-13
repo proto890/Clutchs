@@ -46,7 +46,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Code\BGMover.cs" />
-     <Compile Include="Assets\Code\BoundaryDestroy.cs" />
      <Compile Include="Assets\Code\ContactDestroy.cs" />
      <Compile Include="Assets\Code\DestroyByTime.cs" />
      <Compile Include="Assets\Code\GameController.cs" />
